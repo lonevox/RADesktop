@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="RADesktop.Common/RADesktop.Common.csproj" />
+  <Project Path="RADesktop.Ipc/RADesktop.Ipc.csproj" />
+  <Project Path="RADesktop.Native/RADesktop.Native.csproj" />
+  <Project Path="RADesktop.Overlay/RADesktop.Overlay.csproj" />
+  <Project Path="RADesktop.Service/RADesktop.Service.csproj" />
+  <Project Path="RADesktop.Tray/RADesktop.Tray.csproj" />
+</Solution>
